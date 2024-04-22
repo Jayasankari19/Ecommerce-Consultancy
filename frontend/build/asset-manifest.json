@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ad8850e.css",
+    "main.js": "/static/js/main.2757c2a8.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/rr-fiber-products-high-resolution-logo-removebg-preview.png": "/static/media/rr-fiber-products-high-resolution-logo-removebg-preview.444a77ab739e087b7745.png",
+    "index.html": "/index.html",
+    "main.2ad8850e.css.map": "/static/css/main.2ad8850e.css.map",
+    "main.2757c2a8.js.map": "/static/js/main.2757c2a8.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad8850e.css",
+    "static/js/main.2757c2a8.js"
+  ]
+}
